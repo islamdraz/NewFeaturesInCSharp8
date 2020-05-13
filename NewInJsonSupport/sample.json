@@ -1,0 +1,17 @@
+{
+  "courseName": "c# .net core new things",
+  "language": "C#",
+  "author": {
+    "firstName": "islam",
+    "lastName": "draz"
+  },
+  "publishedAt": "2012-03-13T12:30:00.000Z",
+  "publishedYear": 2014,
+  "isActive": true,
+  "isRetired": false,
+  "tags": [
+    "Aspnet",
+    "c#",
+    "dotnet"
+  ] 
+}
