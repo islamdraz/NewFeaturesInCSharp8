@@ -7,7 +7,7 @@ using System.Text.Json;
 namespace NewInJsonSupport
 {
    public static class JsonDocumentSample
-    {
+    { 
         public static void RunSample()
         {
             Console.WriteLine("**Json Document sample");
